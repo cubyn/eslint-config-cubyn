@@ -19,7 +19,7 @@
   "dependencies": {
     "babel-eslint": "^7.1.1",
     "eslint-config-airbnb-base": "^11.0.0",
-    "eslint-plugin-cubyn": "^1.0.0",
+    "eslint-plugin-cubyn": "^1.0.4",
     "eslint-plugin-import": "^2.2.0"
   },
   "peerDependencies": {

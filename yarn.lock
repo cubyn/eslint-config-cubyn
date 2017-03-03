@@ -147,9 +147,9 @@ eslint-module-utils@^2.0.0:
     debug "2.2.0"
     pkg-dir "^1.0.0"
 
-eslint-plugin-cubyn@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-cubyn/-/eslint-plugin-cubyn-1.0.3.tgz#7bb15f3c06e88f9a225dc3be4d477f3141ab6ff5"
+eslint-plugin-cubyn@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-cubyn/-/eslint-plugin-cubyn-1.0.4.tgz#63a118416ebd6273c2e80eb4950cdbbffdabfcf5"
 
 eslint-plugin-import@^2.2.0:
   version "2.2.0"
