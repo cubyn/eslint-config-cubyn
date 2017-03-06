@@ -4,5 +4,11 @@ module.exports = {
     },
     extends: [
         './configurations/core.js'
-    ]
+    ],
+    rules: {
+        'import/no-extraneous-dependencies': [
+            'error',
+            { 'devDependencies': [ '**/*.spec.js', '**/spec.js' ] }
+        ]
+    }
 };
