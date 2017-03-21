@@ -26,6 +26,7 @@ module.exports = {
         'no-unused-vars': [2, {'vars': 'all', 'args': 'none'}],
         'no-use-before-define': [2, 'nofunc'],
         'no-var': [0],
+        'padded-blocks': [0],
         'quotes': [2, 'single'],
         'vars-on-top': [0]
     },

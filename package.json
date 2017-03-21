@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cubyn",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Cubyn javascript lint rules - extending Airbnb",
   "main": "core.js",
   "scripts": {
